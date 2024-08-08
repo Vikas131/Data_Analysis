@@ -1,6 +1,6 @@
 Stock Market Analysis
 
-You will find 2 sets of visualization notebooks for this project.
+You will find 2 sets of visualization notebooks for this project.<br>
 FOR INTERACTIVE PLOTLY GRAPHS, please visit below links(NBVIEWER or BINDER),
 Use NBVIEWER only to view the code & graphs,
 BINDER lets you open Jupyter notebooks from a Github repository in an executable environment.
