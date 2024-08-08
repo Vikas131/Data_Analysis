@@ -11,8 +11,8 @@ https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysi
 <br><b>BINDER - </b><br>
 https://hub.ovh2.mybinder.org/user/vikas131-data_analysis-rw4aygkt/lab/tree/Python_Data_Analysis_Projects/Stock_Market_Analysis
 
-2. FOR NON-INTERACTIVE PLOTLY GRAPHS,
-   Refer the Jupyter notebooks in the present directory.
-   Filenames - Stock_Market_Analysis_EN.ipynb & Stock_Market_Analysis_JP.ipynb
+2. FOR NON-INTERACTIVE PLOTLY GRAPHS<br>
+   Refer the Jupyter notebooks in the present directory.<br>
+   Filenames - Stock_Market_Analysis_EN.ipynb & Stock_Market_Analysis_JP.ipynb<br>
    Since GITHUB does not support interactive graphs, above 2 notebooks contain static rendered svg graph images. 
 
