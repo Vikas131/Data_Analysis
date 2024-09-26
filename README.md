@@ -1,7 +1,3 @@
-Here's the updated README file, including the Sales Data Analysis section:
-
----
-
 # Data Analysis Projects
 
 ## Overview
