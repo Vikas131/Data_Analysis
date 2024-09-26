@@ -49,4 +49,5 @@ This project focuses on exploratory data analysis (EDA) of sales data to derive 
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
 - Yahoo Finance API (yfinance)
