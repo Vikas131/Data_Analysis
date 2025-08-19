@@ -35,7 +35,9 @@ GitHub では Plotly のインタラクティブグラフがサポートされ�
 これらのノートブックは現在のディレクトリにあります。  
 
 
-<b>STOCK MARKET ANALYSIS<b>
+##ENGLISH
+
+##<b>STOCK MARKET ANALYSIS<b>
 
 You will find 2 sets of visualization notebooks for this project.<br>
 1. FOR INTERACTIVE PLOTLY GRAPHS, please visit below links(***NBVIEWER*** or ***BINDER***)<br>
