@@ -9,14 +9,13 @@
 
 以下のリンクからご覧いただけます：  
 
-- **NBVIEWER (英語グラフ)**  
-  [Stock_Market_Analysis_EN_Master.ipynb](https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_EN_Master.ipynb)
+- **NBVIEWER (英語版)**
+https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_EN_Master.ipynb
 
-- **NBVIEWER (日本語グラフ)**  
-  [Stock_Market_Analysis_JP_Master.ipynb](https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_JP_Master.ipynb)
+- **NBVIEWER (日本語版)**  https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_JP_Master.ipynb
 
 - **BINDER (実行可能環境で開く)**  
-  [Binder Link](https://mybinder.org/v2/gh/Vikas131/Data_Analysis/main?labpath=Python_Data_Analysis_Projects%2FStock_Market_Analysis%2FMaster_Files)
+  https://mybinder.org/v2/gh/Vikas131/Data_Analysis/main?labpath=Python_Data_Analysis_Projects%2FStock_Market_Analysis%2FMaster_Files<br>
 
 > NBVIEWER はコードとグラフの閲覧用、  
 > BINDER は GitHub リポジトリ上の Jupyter Notebook を実行可能な環境で開くために使用します。  
