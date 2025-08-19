@@ -1,3 +1,41 @@
+###<English follows Japanese>
+# 株式市場分析 (STOCK MARKET ANALYSIS)
+
+このプロジェクトでは、2種類の可視化用ノートブックを提供しています。  
+
+---
+
+## インタラクティブな Plotly グラフ
+
+以下のリンクからご覧いただけます：  
+
+- **NBVIEWER (英語グラフ)**  
+  [Stock_Market_Analysis_EN_Master.ipynb](https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_EN_Master.ipynb)
+
+- **NBVIEWER (日本語グラフ)**  
+  [Stock_Market_Analysis_JP_Master.ipynb](https://nbviewer.org/github/Vikas131/Data_Analysis/blob/main/Python_Data_Analysis_Projects/Stock_Market_Analysis/Master_Files/Stock_Market_Analysis_JP_Master.ipynb)
+
+- **BINDER (実行可能環境で開く)**  
+  [Binder Link](https://mybinder.org/v2/gh/Vikas131/Data_Analysis/main?labpath=Python_Data_Analysis_Projects%2FStock_Market_Analysis%2FMaster_Files)
+
+> NBVIEWER はコードとグラフの閲覧用、  
+> BINDER は GitHub リポジトリ上の Jupyter Notebook を実行可能な環境で開くために使用します。  
+
+これらのノートブックは **Master_Files ディレクトリ** に格納されています。  
+
+---
+
+## 非インタラクティブな Plotly グラフ
+
+GitHub では Plotly のインタラクティブグラフがサポートされていないため、  
+静的にレンダリングされた SVG 画像を含むノートブックを用意しています。  
+
+- `Stock_Market_Analysis_EN.ipynb`  
+- `Stock_Market_Analysis_JP.ipynb`  
+
+これらのノートブックは現在のディレクトリにあります。  
+
+
 <b>STOCK MARKET ANALYSIS<b>
 
 You will find 2 sets of visualization notebooks for this project.<br>
