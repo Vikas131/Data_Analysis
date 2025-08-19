@@ -1,4 +1,4 @@
-###<English follows Japanese>
+###English follows Japanese
 # 株式市場分析 (STOCK MARKET ANALYSIS)
 
 このプロジェクトでは、2種類の可視化用ノートブックを提供しています。  
